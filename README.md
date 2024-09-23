@@ -1,2 +1,2 @@
 # react-shopping-cart
-react-shopping-cart has b een submitted
+react-shopping-cart task has been submitted
